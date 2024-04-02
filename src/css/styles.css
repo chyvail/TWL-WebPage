@@ -39,6 +39,7 @@ nav {
 
 ul li {
   margin-right: 15px;
+  font-size: 13px;
 }
 
 .svg i {
@@ -56,11 +57,11 @@ ul li {
   background-color: var(--color-black);
   color: var(--color-white);
   border-radius: 50%;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   text-align: center;
-  line-height: 20px;
-  font-size: 12px;
+  line-height: 16px;
+  font-size: 10px;
 }
 
 .custom-hr {
@@ -72,7 +73,8 @@ ul li {
 }
 
 .input-group input {
-  width: 165px !important;
+  width: 110px !important;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 1024px) {
